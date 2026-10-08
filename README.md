@@ -1,2 +1,3 @@
 # coursetest2
 first first lesson about github
+I am editing the README file. Adding some more details about the project description.
